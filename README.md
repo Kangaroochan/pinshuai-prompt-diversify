@@ -1,4 +1,4 @@
-# 圣诞珍珠画01
+# pinshuai-prompt-diversify
 
 把一段生图提示词或一组参考图，改写成批量生成时每张都有明显差异、又看得出是同一个系列的提示词。深度拆解固定层和变量层，每张参考图输出一条可以直接丢进生图工具批量跑的提示词，并存成 TXT，放在参考图旁边。
 
@@ -6,19 +6,21 @@
 
 出图后的反馈会记进 `references/lessons.md`，下次写提示词前先读，少犯同样的错。
 
+2026-10-31 起，本 skill 由原来的 `圣诞珍珠画01` 改名而来。[`圣诞珍珠画01`](https://github.com/Kangaroochan/christmas-pearl-painting-01) 现在是圣诞珠钻画挂饰那套三张轮播的专用模板，从本 skill 复制出去单独维护。
+
 ## 安装
 
-克隆到 Codex 的技能目录，文件夹名保持 `圣诞珍珠画01`：
+克隆到 Codex 的技能目录，文件夹名保持 `pinshuai-prompt-diversify`：
 
 ```powershell
-git clone https://github.com/Kangaroochan/christmas-pearl-painting-01.git "$env:USERPROFILE\.codex\skills\圣诞珍珠画01"
+git clone https://github.com/Kangaroochan/pinshuai-prompt-diversify.git "$env:USERPROFILE\.codex\skills\pinshuai-prompt-diversify"
 ```
 
 可选的素材池脚本 `scripts/sample_prompts.py` 需要 Python 3，只用标准库。
 
 ## 使用
 
-在 Codex 里调用 `$圣诞珍珠画01`，给出参考图或原提示词。默认只输出提示词；要素材池、Excel 或"严格保证每两张至少 N 处不同"时再说明。
+在 Codex 里调用 `$pinshuai-prompt-diversify`，给出参考图或原提示词。默认只输出提示词；要素材池、Excel 或"严格保证每两张至少 N 处不同"时再说明。
 
 ## 文件
 

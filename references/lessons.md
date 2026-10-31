@@ -1,6 +1,6 @@
 # 经验记录
 
-每次出图复盘或用户反馈后追加到这里。写提示词前先读一遍。2026-10-31 改名：本 skill 原名 batch-prompt-diversify，出图 skill pinshuai-batch-image 原名 batch-product-render；之前的复盘文件里还是旧名字。规则见 SKILL.md 的"经验学习"一节。每条不超过 8 行，逐张明细放在复盘文件里。
+每次出图复盘或用户反馈后追加到这里。写提示词前先读一遍。2026-10-31 改名：本 skill 原名 batch-prompt-diversify，出图 skill pinshuai-batch-image 原名 batch-product-render；之前的复盘文件里还是旧名字。2026-10-31 晚再次改名：本 skill 改叫 pinshuai-prompt-diversify；`圣诞珍珠画01` 这个名字改给了从本 skill 复制出去的三张轮播专用模板，L001–L015 两边各存一份，此后各记各的。规则见 SKILL.md 的"经验学习"一节。每条不超过 8 行，逐张明细放在复盘文件里。
 
 ## 状态
 
