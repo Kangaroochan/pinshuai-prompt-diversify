@@ -6,7 +6,7 @@
 
 出图后的反馈会记进 `references/lessons.md`，下次写提示词前先读，少犯同样的错。
 
-2026-10-31 起，本 skill 由原来的 `圣诞珍珠画01` 改名而来。[`圣诞珍珠画01`](https://github.com/Kangaroochan/christmas-pearl-painting-01) 现在是圣诞珠钻画挂饰那套三张轮播的专用模板，从本 skill 复制出去单独维护。
+2026-10-31 起，本 skill 由原来的 `圣诞珍珠画01` 改名而来。[`圣诞珍珠画01`](https://github.com/Kangaroochan/christmas-pearl-painting-01) 当时是圣诞珠钻画挂饰那套三张轮播的专用模板，从本 skill 复制出去单独维护；2026-11-02 它和 圣诞珍珠画02 合并进 [`pinshuai-image-template`](https://github.com/Kangaroochan/pinshuai-image-template)，成为其中的模板。
 
 ## 安装
 
